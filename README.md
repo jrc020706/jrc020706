@@ -1,20 +1,20 @@
-# ¡Hola! Soy Jesús Jared Rivas Córdoba 👋
+# Hi there! I'm Jesús Jared Rivas Córdoba 👋
 
-![Dragon Ball GitHub Banner](https://images.prodia.xyz/image_generation_content/203)
+![Dragon Ball GitHub Banner](dragon-ball-banner.png)
 
-### 🚀 Sobre Mí
+### 🚀 About Me
 
-Soy un **Desarrollador de Software Junior** en formación con sede en Medellín, Colombia. Me apasiona el desarrollo de soluciones digitales, la programación web y la creación de automatizaciones utilizando Inteligencia Artificial.
+[cite_start]I am a Junior Software Developer currently in training, based in Medellín, Colombia[cite: 1, 2]. [cite_start]I am deeply passionate about digital solutions, web programming, and building automated systems using Artificial Intelligence[cite: 2, 10].
 
-* 🎓 **Formación:** Estudiante de Desarrollo de Software (con bases previas en tecnología de control de calidad).
-* 🌎 **Idiomas:** Español (Nativo) | Inglés (Nivel C1 — Capacidad para entornos bilingües y documentación técnica).
-* ⚡ **Enfoque:** Proactivo, adaptable y enfocado en la resolución de problemas mediante el código.
+* [cite_start]🎓 **Education:** Software Development Student [cite: 2] (with a prior background in quality control technology).
+* 🌎 **Languages:** Spanish (Native) | [cite_start]English (C1 Level — fully capable in bilingual environments and managing technical documentation).
+* [cite_start]⚡ **Focus:** Responsible, proactive, and highly adaptable team player focused on solving problems through clean code[cite: 5, 6, 11].
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tech Stack & Tools
 
-A lo largo de mi aprendizaje y en mis proyectos personales/académicos, he venido fortaleciendo el uso de:
+[cite_start]Throughout my learning journey and personal projects, I have been sharpening my skills in[cite: 3, 9]:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,17 +27,17 @@ A lo largo de mi aprendizaje y en mis proyectos personales/académicos, he venid
 
 ---
 
-### 💻 Proyectos en los que me enfoco
+### 💻 Project Enfocus
 
-* **Soluciones Digitales:** Creación de plataformas web funcionales y dinámicas.
-* **Asistentes Virtuales y Automatización:** Integración de herramientas de IA para facilitar y optimizar procesos.
+* [cite_start]**Digital Solutions:** Building functional, dynamic, and responsive web platforms[cite: 4, 9].
+* [cite_start]**Virtual Assistants & Automation:** Integrating AI tools to streamline processes and optimize user experiences[cite: 9, 10].
 
 ---
 
-### 📬 Conéctate conmigo
+### 📬 Connect with Me
 
-* **Ubicación:** Medellín, Antioquia, Colombia
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario) _(¡No olvides cambiar este enlace por el tuyo!)_
+* [cite_start]**Location:** Medellín, Antioquia, Colombia [cite: 1]
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-username) _(Don't forget to replace this with your actual link!)_
 
 ---
 <p align="center">
