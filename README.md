@@ -1,3 +1,4 @@
+<img width="1024" height="506" alt="b4556d00-587b-448e-bcc6-e0850f32ed14" src="https://github.com/user-attachments/assets/3b7ca7a6-9b2e-4a0e-861c-d0df52648894" />
 # Hi there! I'm Jesús Jared Rivas Córdoba 👋
 
 <p align="center">
