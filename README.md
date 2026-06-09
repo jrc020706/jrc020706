@@ -1,7 +1,7 @@
-# Hi there! I'm Jesús Jared Rivas Córdoba 👋
-
 ![Dragon Ball GitHub Banner](dragon-ball-banner.png)
 
+
+# Hi there! I'm Jesús Jared Rivas Córdoba 👋
 ### 🚀 About Me
 
 [cite_start]I am a Junior Software Developer currently in training, based in Medellín, Colombia[cite: 1, 2]. [cite_start]I am deeply passionate about digital solutions, web programming, and building automated systems using Artificial Intelligence[cite: 2, 10].
