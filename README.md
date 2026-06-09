@@ -1,7 +1,7 @@
 # Hi there! I'm Jesús Rivas 👋
 
 <p align="center">
-<img src="banner.png" alt="Dragon Ball GitHub Banner" width="100%">
+<img src="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" alt="Dragon Ball GitHub Banner" width="100%">
 </p>
 
 ### 🚀 About Me
