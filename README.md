@@ -1,5 +1,5 @@
 
-# Hi there! I'm Jesús Jared Rivas Córdoba 👋
+# Hi there! I'm Jesús Rivas👋
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3b7ca7a6-9b2e-4a0e-861c-d0df52648894" alt="Dragon Ball GitHub Banner" width="100%">
@@ -53,7 +53,7 @@ Throughout my learning journey and personal projects, I have been sharpening my 
 ### 📬 Connect with Me
 
 * **Location:** Medellín, Antioquia, Colombia
-* **LinkedIn:** (https://www.linkedin.com/in/jesus-jared-rivas-cordoba-65125b31a/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-jared-rivas-cordoba-65125b31a/)
 
 ---
 <p align="center">
