@@ -1,20 +1,22 @@
-![Dragon Ball GitHub Banner](dragon-ball-banner.png)
-
-
 # Hi there! I'm Jesús Jared Rivas Córdoba 👋
+
+<p align="center">
+  <img src="banner.png" alt="Dragon Ball GitHub Banner" width="100%">
+</p>
+
 ### 🚀 About Me
 
-[cite_start]I am a Junior Software Developer currently in training, based in Medellín, Colombia[cite: 1, 2]. [cite_start]I am deeply passionate about digital solutions, web programming, and building automated systems using Artificial Intelligence[cite: 2, 10].
+I am a Junior Software Developer currently in training, based in Medellín, Colombia. I am deeply passionate about digital solutions, web programming, and building automated systems using Artificial Intelligence.
 
-* [cite_start]🎓 **Education:** Software Development Student [cite: 2] (with a prior background in quality control technology).
-* 🌎 **Languages:** Spanish (Native) | [cite_start]English (C1 Level — fully capable in bilingual environments and managing technical documentation).
-* [cite_start]⚡ **Focus:** Responsible, proactive, and highly adaptable team player focused on solving problems through clean code[cite: 5, 6, 11].
+* 🎓 **Education:** Software Development Student (with a prior background in quality control technology).
+* 🌎 **Languages:** Spanish (Native) | English (C1 Level — fully capable in bilingual environments and managing technical documentation).
+* ⚡ **Focus:** Responsible, proactive, and highly adaptable team player focused on solving problems through clean code.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-[cite_start]Throughout my learning journey and personal projects, I have been sharpening my skills in[cite: 3, 9]:
+Throughout my learning journey and personal projects, I have been sharpening my skills in:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,16 +29,16 @@
 
 ---
 
-### 💻 Project Enfocus
+### 💻 Project Focus
 
-* [cite_start]**Digital Solutions:** Building functional, dynamic, and responsive web platforms[cite: 4, 9].
-* [cite_start]**Virtual Assistants & Automation:** Integrating AI tools to streamline processes and optimize user experiences[cite: 9, 10].
+* **Digital Solutions:** Building functional, dynamic, and responsive web platforms.
+* **Virtual Assistants & Automation:** Integrating AI tools to streamline processes and optimize user experiences.
 
 ---
 
 ### 📬 Connect with Me
 
-* [cite_start]**Location:** Medellín, Antioquia, Colombia [cite: 1]
+* **Location:** Medellín, Antioquia, Colombia
 * **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-username) _(Don't forget to replace this with your actual link!)_
 
 ---
