@@ -37,7 +37,6 @@ Throughout my learning journey and personal projects, I have been sharpening my 
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
-
 ![AI Automation](https://img.shields.io/badge/AI_Automation-🤖-blueviolet?style=for-the-badge)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
