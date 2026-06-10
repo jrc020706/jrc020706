@@ -1,20 +1,15 @@
-<!-- ANIMATED DRAGON BALL BANNER -->
 <div align="center">
 
-<!-- Typing SVG - Dragon Ball themed greeting -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Saiyan+Sans&size=40&duration=3000&pause=1000&color=F7A600&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%A1+IT'S+OVER+9000!+%E2%9A%A1;%F0%9F%90%89+Hey%2C+I'm+Jes%C3%BAs+Rivas!+%F0%9F%90%89;%F0%9F%94%A5+Junior+Software+Developer+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<!-- Dragon Ball GIF Banner -->
 <img src="https://i.pinimg.com/originals/9e/b8/49/9eb849bae8bed1dce4cde8da5aee9e81.gif" width="600" alt="Dragon Ball Banner"/>
 
-<!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
 <div align="center">
 
 ## 🐉 About Me
