@@ -4,8 +4,6 @@
 
 <img src="https://i.pinimg.com/originals/9e/b8/49/9eb849bae8bed1dce4cde8da5aee9e81.gif" width="600" alt="Dragon Ball Banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
-
 </div>
 
 ---
