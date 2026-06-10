@@ -1,3 +1,4 @@
+<!-- ANIMATED DRAGON BALL BANNER -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Saiyan+Sans&size=40&duration=3000&pause=1000&color=F7A600&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%A1+IT'S+OVER+9000!+%E2%9A%A1;%F0%9F%90%89+Hey%2C+I'm+Jes%C3%BAs+Rivas!+%F0%9F%90%89;%F0%9F%94%A5+Junior+Software+Developer+%F0%9F%94%A5)](https://git.io/typing-svg)
@@ -29,9 +30,13 @@ class JesusRivas:
 
 <div align="center">
 
-🎓 **Software Development Student** · Background in Quality Control Technology  
-⚡ Passionate about digital solutions, AI and automation  
-🌱 Always learning, always growing — *like Goku training in the Hyperbolic Time Chamber*
+I'm a **Junior Software Developer** based in Medellín, Colombia, with a background in **Quality Control Technology** that gave me a sharp eye for detail and a systematic approach to problem-solving — skills I now apply directly to software engineering.
+
+My core expertise spans **Python**, **FastAPI**, **JavaScript**, and **Node.js** for backend development, paired with solid **HTML/CSS** and **Bootstrap** skills on the frontend. I work with **PostgreSQL** for data persistence and have hands-on experience building **AI-powered solutions** using **LangChain** and **Ollama** to design intelligent, automated workflows.
+
+I build software that is **clean, purposeful, and production-minded** — from responsive web platforms to virtual assistants that automate real business processes. Every project I take on is an opportunity to sharpen my technical depth and deliver measurable value.
+
+> *"Like Goku in the Hyperbolic Time Chamber — every day in the code is a day stronger."*
 
 </div>
 
@@ -46,17 +51,14 @@ class JesusRivas:
 
 </div>
 
-<!-- Row 1 - Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,nodejs,html,css,postgres,bootstrap&theme=dark&perline=8" />
 </p>
 
-<!-- Row 2 - Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark&perline=8" />
 </p>
 
-<!-- Sliding badges row -->
 <div align="center">
 
 <table>
@@ -121,11 +123,9 @@ class JesusRivas:
 
 *A warrior's strength is measured by his alliances!*
 
-<!-- ═══ REPLACE WITH YOUR PROFILES BELOW ═══ -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-jared-rivas-cordoba-65125b31a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrc020706)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jesusrivaslds@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusrivaslds@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.com)
 
 <br>
@@ -139,7 +139,6 @@ class JesusRivas:
 <!-- FOOTER -->
 <div align="center">
 
-<!-- Snake eating contributions -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
